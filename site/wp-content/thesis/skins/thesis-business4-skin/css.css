@@ -2433,7 +2433,7 @@ a.btn:link, a.btn:active, a.btn:visited, a.btn:hover {
 
 /*---PAGE---*/
 .heading-bg {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/bg-header-sub.jpg') top center;
+    background: url('images/bg-header-sub.jpg') top center;
     background-size: cover;
     height: 140px;
     border-bottom: 9px solid #5b331f;
@@ -2494,17 +2494,17 @@ a.btn:link, a.btn:active, a.btn:visited, a.btn:hover {
 }
 
 .teaser1 {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/cloud-security.png') no-repeat center top;
+    background: url('images/cloud-security.png') no-repeat center top;
 }
 
 .teaser2 {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/cloud-provider.png') no-repeat center top;
+    background: url('images/cloud-provider.png') no-repeat center top;
     border-left: 1px solid #d8dbdb;
     //border-right:1px solid #d8dbdb;
 }
 
 .teaser3 {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/membership.png') no-repeat center top;
+    background: url('images/membership.png') no-repeat center top;
 }
 
 /*---FOOTER---*/
@@ -2520,7 +2520,7 @@ a.btn:link, a.btn:active, a.btn:visited, a.btn:hover {
 }
 
 .widget ul li {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/li-bg.png') no-repeat 0 8px;
+    background: url('images/li-bg.png') no-repeat 0 8px;
     border-bottom: 1px solid #555555;
 }
 
@@ -2567,7 +2567,7 @@ a.btn:link, a.btn:active, a.btn:visited, a.btn:hover {
 }
 
 .full-width-image {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/header-bg.jpg') top center;
+    background: url('images/header-bg.jpg') top center;
     background-size: cover;
     height: 350px;
     position: relative;
@@ -2747,7 +2747,7 @@ input[type="submit"], input[type="button"], .widget input[type="submit"], .widge
 }
 
 .landing-post-box .testimonials {
-    background: url(/wp-content/thesis/skins/thesis-business4-skin/images/header-bg-no-phone.jpg);
+    background: url(images/header-bg-no-phone.jpg);
     color: #fff;
     background-size: cover;
     overflow: hidden;
@@ -2758,7 +2758,7 @@ input[type="submit"], input[type="button"], .widget input[type="submit"], .widge
     float: left;
     width: 27.3%;
     margin: 2%;
-    background: url(/wp-content/thesis/skins/thesis-business4-skin/images/wit-20.png);
+    background: url(images/wit-20.png);
     padding: 1%;
 }
 
@@ -2777,7 +2777,7 @@ input[type="submit"], input[type="button"], .widget input[type="submit"], .widge
 }
 
 .landing-post-box ul li {
-    background: url(/wp-content/thesis/skins/thesis-business4-skin/images/check.png) no-repeat left center;
+    background: url(images/check.png) no-repeat left center;
     list-style: none;
     padding-left: 30px;
     margin-left: 5px;
@@ -2841,7 +2841,7 @@ input[type="submit"], input[type="button"], .widget input[type="submit"], .widge
     position: absolute;
     bottom: 0;
     left: 0;
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/green-50.png');
+    background: url('images/green-50.png');
     color: #fff;
     padding: 10px;
     font-size: 17px;
@@ -2861,7 +2861,7 @@ input[type="submit"], input[type="button"], .widget input[type="submit"], .widge
 }
 
 div.wpcf7 {
-    background: url('/wp-content/thesis/skins/thesis-business4-skin/images/green-50.png');
+    background: url('images/green-50.png');
 }
 
 div.wpcf7 form {
